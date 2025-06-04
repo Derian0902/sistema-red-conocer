@@ -1,21 +1,28 @@
-# Sistema de Gestión de Actividades - Red CONOCER V 1.0.0
+# 🏢 Sistema de Gestión de Actividades - Red CONOCER
 
-Aplicación de escritorio para gestionar actividades de evaluación, certificación y administrativas.
+![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python)
+![PyQt5](https://img.shields.io/badge/PyQt5-5.15-green?logo=qt)
+![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey?logo=sqlite)
 
-## Características
-- Gestión CRUD de actividades
-- Filtrado por tipo y estado
-- Exportación a Excel y PDF
-- Interfaz gráfica moderna con PyQt5
+Aplicación de escritorio para la gestión de actividades académicas y administrativas del Instituto Tecnológico Superior de Coatzacoalcos.
 
-## Requisitos
-- Python 3.7+
-- PyQt5
-- pandas
-- reportlab
-- sqlite3 (incluido en Python)
+## ✨ Características principales
 
-## Instalación
+- 🗃️ Gestión completa de actividades (Crear, Leer, Actualizar, Eliminar)
+- 🔍 Filtrado avanzado por tipo y estado
+- 📊 Exportación de reportes en formato Excel y PDF
+- 🎨 Interfaz intuitiva con menús y botones accesibles
+- 📅 Gestión de fechas límite y responsables
+- 💾 Almacenamiento local con SQLite
+
+## 📦 Requisitos del sistema
+
+- Python 3.7 o superior
+- Sistema operativo Windows, Linux o macOS con **Visual Studio Code**
+
+## 🚀 Instalación y configuración
 para un mejor funcionamiento debera instalar lo siguiente en su **Visual Studio Code**
-pip install PyQt5 pandas reportlab
-python main.py
+-  pip install PyQt5 pandas reportlab
+
+Ejecutar la aplicación:
+**python main.py**
